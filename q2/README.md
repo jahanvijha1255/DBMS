@@ -1,6 +1,4 @@
-# Question 2 — Retrieving Data using Employee Table
-
-Perform the following queries using the `Employee` table.
+# Question 2 
 
 ---
 
